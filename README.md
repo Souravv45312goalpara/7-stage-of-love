@@ -1,9 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    
-    <title>7 STAGE OF LOVE ❤️</title>
-</head>
+
 <body style="background-color: rgb(180, 30, 108);">
     <h2 style="color: black;">7 STAGE OF LOVE</h2>
     <p1 style="color: black;">The 7 Stages of Love, rooted in Sufi and Persian traditions, describe a spiritual journey from initial attraction to complete union with the beloved (or the Divine), progressing through phases</p1><br>
@@ -54,4 +49,4 @@ It is not just about emotions — it also includes understanding, patience, and 
     <br>
     <p8><i style="color: antiquewhite;">Maut (Annihilation/Death):</i> The ego dissolves; "me" becomes "we," merging into oneness with the beloved or the divine. </p8><br>
 </body>
-</html>
+

@@ -25,8 +25,26 @@
     <p3><i style="color: antiquewhite;">Uns (Infatuation/Attachment):</i> <br>
     “Uns” is an Urdu–Arabic word that describes a deep emotional attachment or a feeling of warm closeness with someone or something. It is a positive, comforting emotion.
     Intense preoccupation, feeling overcome by the person.</p3><br>
+    ⭐ What “Uns” Means
+    <ul><li>A natural sense of affection</li>
+    <li>Feeling comfortable and safe with someone</li>
+    <li>A gentle emotional bond</li>
+    <li>A sense of belonging or connection</li>
     <br>
-    <p4><i style="color: antiquewhite;">Ishq (Love):</i> Deep affection and connection develops, moving beyond infatuation.</p4><br>
+    <p>कई बार उन्स उन लोगों से भी हो जाता है,
+जो हमारे साथ कम बोलते हैं, पर दिल समझते हैं।</p>
+    <p4><i style="color: antiquewhite;">Ishq (Love):</i> <br>
+        Love is a deep feeling of care, trust, and respect for someone.
+It is not just about emotions — it also includes understanding, patience, and support.
+        Deep affection and connection develops, moving beyond infatuation.</p4><br>
+        ⭐ What Love Really Means
+        <ul>
+            <li>Care: You want good things for the person.</li>
+            <li>Respect: You accept their thoughts and boundaries.</li>
+            <li>Trust: You feel safe and honest with them.</li>
+            <li>Support: You help each other grow.</li>
+            <li>Understanding: You listen and don’t judge quickly.</li>
+        </ul>
     <br>
     <p5><i style="color: antiquewhite;">Akidat (Trust/Reverence):</i> A deep respect and faith in the partner, sharing vulnerabilities.</p5><br>
     <br>

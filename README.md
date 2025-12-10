@@ -30,9 +30,21 @@
         <li>Feeling comfortable and safe with someone</li>
         <li>A gentle emotional bond</li>
     <li>A sense of belonging or connection</li>
+        <p>कई बार उन्स उन लोगों से भी हो जाता है,
+जो हमारे साथ कम बोलते हैं, पर दिल समझते हैं।</p>
     </ul>
     <br>
-    <p4><i style="color: antiquewhite;">Ishq (Love):</i> Deep affection and connection develops, moving beyond infatuation.</p4><br>
+    <p4><i style="color: antiquewhite;">Ishq (Love):</i> Love is a deep feeling of care, trust, and respect for someone.
+It is not just about emotions — it also includes understanding, patience, and support.
+        Deep affection and connection develops, moving beyond infatuation.</p4><br>
+        ⭐ What Love Really Means
+        <ul>
+            <li>Care: You want good things for the person.</li>
+            <li>Respect: You accept their thoughts and boundaries.</li>
+            <li>Trust: You feel safe and honest with them.</li>
+            <li>Support: You help each other grow.</li>
+            <li>Understanding: You listen and don’t judge quickly.</li>
+        </ul>
     <br>
     <p5><i style="color: antiquewhite;">Akidat (Trust/Reverence):</i> A deep respect and faith in the partner, sharing vulnerabilities.</p5><br>
     <br>
